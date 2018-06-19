@@ -1,0 +1,1 @@
+Front-end information collection
